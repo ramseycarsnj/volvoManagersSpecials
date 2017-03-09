@@ -71,22 +71,6 @@
 		"oAP": "\/vehicleImages\/car temp.psd",
 		"oF": 0
 		},
-	"\/vehicleImages\/VOH0104.jpg": {
-		"ft": 16384,
-		"iS": 430812,
-		"oA": 0,
-		"oAP": "\/vehicleImages\/VOH0104.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/vehicleImages\/VOH0169.jpg": {
-		"ft": 16384,
-		"iS": 309304,
-		"oA": 0,
-		"oAP": "\/vehicleImages\/VOH0169.jpg",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/vehicleImages\/VOH0207.jpg": {
 		"ft": 16384,
 		"iS": 421867,
@@ -95,11 +79,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/vehicleImages\/VOH0219.jpg": {
+	"\/vehicleImages\/VOH0334.jpg": {
 		"ft": 16384,
-		"iS": 343601,
+		"iS": 278330,
 		"oA": 0,
-		"oAP": "\/vehicleImages\/VOH0219.jpg",
+		"oAP": "\/vehicleImages\/VOH0334.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -111,19 +95,35 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/vehicleImages\/VOH0359.jpg": {
+	"\/vehicleImages\/VOH0356.jpg": {
 		"ft": 16384,
-		"iS": 317349,
+		"iS": 159707,
 		"oA": 0,
-		"oAP": "\/vehicleImages\/VOH0359.jpg",
+		"oAP": "\/vehicleImages\/VOH0356.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/vehicleImages\/VOH0415.jpg": {
-		"ft": 16384,
-		"iS": 415032,
+	"\/vehicleImages\/VOH0356.jpg.png": {
+		"ft": 32768,
+		"iS": 901612,
 		"oA": 0,
-		"oAP": "\/vehicleImages\/VOH0415.jpg",
+		"oAP": "\/vehicleImages\/VOH0356.jpg.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/vehicleImages\/VOH0358.jpg": {
+		"ft": 16384,
+		"iS": 358553,
+		"oA": 0,
+		"oAP": "\/vehicleImages\/VOH0358.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/vehicleImages\/VOH0455.jpg": {
+		"ft": 16384,
+		"iS": 304969,
+		"oA": 0,
+		"oAP": "\/vehicleImages\/VOH0455.jpg",
 		"oF": 0,
 		"opt": 0
 		}
