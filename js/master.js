@@ -124,6 +124,35 @@ $(document).ready(function(){
   vehicleArray[1] = new Vehicle(
     2017,
     'Volvo',
+    'XC60 T5 AWD DYNAMIC',
+    '',
+    '4DR',
+    '4-cylinder',
+    'Automatic',
+    'power brakes',
+    'power steering',
+    'power windows/locks/seats/mirrors,',
+    'climate/protection package, preferred option',
+    'H2031350',
+    'VOH0003',
+    '6,860',
+    '47,305',
+    399,
+    '21,479',
+    '0',
+    'inc',
+    '0',
+    '14,364',
+    '36',
+    '10',
+    '.25',
+    '0',
+    'Includes $1000 conquest bonus cash',
+    'vehicleImages/VOH0003.jpg',
+    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC60-ramsey-nj-29747b590a0e0a17689cb50d0fef227e.htm');
+  vehicleArray[2] = new Vehicle(
+    2017,
+    'Volvo',
     'XC60 T6 DYNAMIC',
     '',
     '4DR',
@@ -150,7 +179,7 @@ $(document).ready(function(){
     'Includes $1000 conquest bonus cash',
     'vehicleImages/VOH0358.jpg',
     'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC60-ramsey-nj-316668000a0e0ae8779b2f8b848745de.htm');
-  vehicleArray[2] = new Vehicle(
+  vehicleArray[3] = new Vehicle(
     2017,
     'Volvo',
     'S60 T6 R-DESIGN',
@@ -179,7 +208,7 @@ $(document).ready(function(){
     ' Payment Includes $1,000 Conquest Allowance.',
     'vehicleImages/VOH0356.jpg',
     'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-2c400ee10a0e0adf3e0eb2a54872ba9f.htm');
-    vehicleArray[3] = new Vehicle(
+    vehicleArray[4] = new Vehicle(
       2017,
       'Volvo',
       'S90 T6 AWD MOMENTUM PLUS',
@@ -209,7 +238,7 @@ $(document).ready(function(){
       'vehicleImages/VOH0455.jpg',
       'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S90-ramsey-nj-7a41c35a0a0e0a6b1b4f73a5d3c43d7b.htm');
 
-  vehicleArray[4] = new Vehicle(
+  vehicleArray[5] = new Vehicle(
     2017,
     'Volvo',
     'XC90 T5 R-DESIGN',
@@ -238,7 +267,7 @@ $(document).ready(function(){
     '',
     'vehicleImages/VOH0350.jpg',
     'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC90-ramsey-nj-17a6ad140a0e0ae8779b2f8b29d5524a.htm');
-  vehicleArray[5] = new Vehicle(
+  vehicleArray[6] = new Vehicle(
     2017,
     'Volvo',
     'XC90 T6 T8 INSCRIPTION HYBRID',
