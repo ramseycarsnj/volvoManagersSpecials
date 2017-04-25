@@ -157,7 +157,7 @@ vehicleArray[0] = new Vehicle(
 vehicleArray[2] = new Vehicle(
   2017,
   'Volvo',
-  'XC60 T5 Inscription FWD',
+  'XC60 T5 Inscription AWD',
   '',
   '5DR',
   '4-cylinder',
