@@ -88,7 +88,7 @@ $(document).ready(function(){
         <p class="buyHead">Or buy for: <strong class="buyPrice">$${thisCar.buyPrice}</strong> </p>
         <a href="${thisCar.vehicleUrl}" class="linkButton" target="_blank">VIEW VEHICLE</a>
 
-        <p class="disclaimer">VIN ${thisCar.vin}. Stk ${thisCar.stock}. ${thisCar.doors}, ${thisCar.engine}, ${thisCar.transmission},mileage: ${thisCar.miles} mi., air conditioning, power steering/ABS brakes/windows/locks/mirrors, cd/MP3, ${thisCar.equipment}. MSRP: $${thisCar.msrp}. $${thisCar.totalAtInception} due at inception. $${thisCar.moneyDown} down + 1st mo pymt $${thisCar.leasePrice}+ bank fee incl. + $0 sec dep. $${thisCar.totalPayment} ttl pymts/$${thisCar.residual} residual.${thisCar.additionalInfo} Prices include all costs to be paid by a consumer except for licensing, registration, taxes, and $299 doc. fee. Tier 1 credit approval thru primary lender. Lessee resp. for excess wear/tear. 10K mi. per yr/.25¢ per mi. over thereafter. See dealer for complete details. Not resp. for typos. Offers expire ${expiration}.</p>
+        <p class="disclaimer">VIN ${thisCar.vin}. Stk ${thisCar.stock}. ${thisCar.doors}, ${thisCar.engine}, ${thisCar.transmission},mileage: ${thisCar.miles} mi., air conditioning, power steering/ABS brakes/windows/locks/mirrors, cd/MP3, ${thisCar.equipment}. MSRP: $${thisCar.msrp}. $${thisCar.totalAtInception} due at inception. $${thisCar.moneyDown} down + 1st mo pymt $${thisCar.leasePrice}+ bank fee incl. + $0 sec dep. $${thisCar.totalPayment} ttl pymts/$${thisCar.residual} residual.${thisCar.additionalInfo} Prices include all costs to be paid by a consumer except for licensing, registration, taxes, and $299 doc. fee. Tier 1 credit approval thru primary lender. Lessee resp. for excess wear/tear. 7.5K mi. per yr/.25¢ per mi. over thereafter. See dealer for complete details. Not resp. for typos. Offers expire ${expiration}.</p>
       </div>
     </div>
     `
@@ -188,8 +188,39 @@ $(document).ready(function(){
     'vehicleImages/VOH0361.jpg',
     'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC60-ramsey-nj-40d9785b0a0e0adf3e0eb2a56443193e.htm');
 
-
   vehicleArray[3] = new Vehicle(
+    2017,
+    'Volvo',
+    'S60 T5 AWD Inscription',
+    '',
+    '4DR',
+    '4-cylinder',
+    'Automatic AWD',
+    'power brakes',
+    'power steering',
+    'power windows/locks/seats/mirrors,',
+    'climate package, BLIS, platinum edition',
+    'HB150497',
+    'VOH0600',
+    '37',
+    '46,815',
+    '39,400',
+    387,
+    '22,939',
+    '0',
+    'inc',
+    '387',
+    '13,932',
+    '36',
+    '7.5',
+    '.25',
+    '774xw',
+    'Includes $1000 Volvo Loyalty',
+    'vehicleImages/VOH0600.jpeg',
+    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60+Inscription-ramsey-nj-61c8e1620a0e0a6b3f70d6d875a61387.htm');
+
+
+  vehicleArray[4] = new Vehicle(
     2017,
     'Volvo',
     'S90 T6 AWD Momentum',
@@ -221,7 +252,7 @@ $(document).ready(function(){
     'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S90-ramsey-nj-fac9a7380a0e0a17487440e2469cb2b1.htm');
 
 
-  vehicleArray[4] = new Vehicle(
+  vehicleArray[5] = new Vehicle(
     2017,
     'Volvo',
     'XC90 T8 Inscription',
