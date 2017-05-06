@@ -97,11 +97,11 @@ $(document).ready(function(){
   vehicleArray[0] = new Vehicle(
     2017,
     'Volvo',
-    'S60 T5 Dynamic AWD',
+    'S60 T5 Dynamic FWD',
     '',
     '4DR',
     '4-cylinder',
-    'Automatic AWD',
+    'Automatic FWD',
     'power brakes',
     'power steering',
     'power windows/locks/seats/mirrors,',
