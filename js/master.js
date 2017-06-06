@@ -123,7 +123,7 @@ $(document).ready(function(){
     '36',
     '7.5',
     '.25',
-    '2,500',
+    '2,779',
     'Includes $500 Loyalty Allowance',
     'vehicleImages/VOH0200.jpg',
     'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
@@ -154,7 +154,7 @@ $(document).ready(function(){
       '36',
       '7.5',
       '.25',
-      '2,500',
+      '2,849',
       'Includes $500 Loyalty Allowance',
       'vehicleImages/VOH0026.jpg',
       'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC60-ramsey-nj-a281196f0a0e0a175fe7952972b56086.htm');
@@ -185,7 +185,7 @@ $(document).ready(function(){
       '36',
       '7.5',
       '.25',
-      '2,500',
+      '2,959',
       'Includes $500 Loyalty Allowance',
       'vehicleImages/VOH0434.jpg',
       'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S90-ramsey-nj-1d8af4550a0e0adf16a64d1fc24f872e.htm');
@@ -216,7 +216,7 @@ $(document).ready(function(){
       '36',
       '7.5',
       '.25',
-      '2,500',
+      '2,859',
       'Includes $500 Loyalty Allowance',
       'vehicleImages/VOH0550.jpg',
       'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S90-ramsey-nj-fac9a5fc0a0e0a17487440e2ee8fe71d.htm');
@@ -247,7 +247,7 @@ $(document).ready(function(){
       '36',
       '7.5',
       '.25',
-      '2,500',
+      '3,199',
       '',
       'vehicleImages/VOH0564.jpg',
       'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC90-ramsey-nj-389608e10a0e0ae85b8927d0ad57fb9c.htm');
