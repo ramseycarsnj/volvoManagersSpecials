@@ -118,8 +118,8 @@ $(document).ready(function(){
     '18,988',
     '0',
     'inc',
-    '0',
     '2,500',
+    '10,044',
     '36',
     '7.5',
     '.25',
@@ -147,10 +147,10 @@ $(document).ready(function(){
       '38,295',
       349,
       '24,052',
-      '0',
-      'inc',
-      '0',
       '2,500',
+      'inc',
+      '2,500',
+      '12,564',
       '36',
       '7.5',
       '.25',
@@ -159,7 +159,7 @@ $(document).ready(function(){
       'vehicleImages/VOH0026.jpg',
       'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC60-ramsey-nj-a281196f0a0e0a175fe7952972b56086.htm');
 
-    vehicleArray[2] = new Vehicle(
+    vehicleArray[3] = new Vehicle(
       2017,
       'Volvo',
       'S90 T6 Inscription AWD',
@@ -180,8 +180,8 @@ $(document).ready(function(){
       '30,732',
       '0',
       'inc',
-      '0',
       '2,500',
+      '16,524',
       '36',
       '7.5',
       '.25',
@@ -190,7 +190,7 @@ $(document).ready(function(){
       'vehicleImages/VOH0434.jpg',
       'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S90-ramsey-nj-1d8af4550a0e0adf16a64d1fc24f872e.htm');
 
-    vehicleArray[3] = new Vehicle(
+    vehicleArray[2] = new Vehicle(
       2017,
       'Volvo',
       'S90 T6 Momentum AWD',
@@ -211,8 +211,8 @@ $(document).ready(function(){
       '30,815',
       '0',
       'inc',
-      '0',
       '2,500',
+      '12,924',
       '36',
       '7.5',
       '.25',
@@ -242,8 +242,8 @@ $(document).ready(function(){
       '37,114',
       '0',
       'inc',
-      '0',
       '2,500',
+      '25,164',
       '36',
       '7.5',
       '.25',
