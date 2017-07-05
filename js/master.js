@@ -99,7 +99,7 @@ $(document).ready(function(){
   vehicleArray[0] = new Vehicle(
     2017,
     'Volvo',
-    'S60 DYNAMIC FWD DYNAMIC',
+    'S60 T5 FWD DYNAMIC',
     '',
     '4DR',
     '4-cylinder',
