@@ -125,7 +125,7 @@ $(document).ready(function(){
     '2,959',
     '',
     'vehicleImages/VOH0381.jpeg',
-    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-65c1bd250a0e0ae8192de0eb15ace27e.htm');
 
   vehicleArray[1] = new Vehicle(
     //ONYX
@@ -157,7 +157,7 @@ $(document).ready(function(){
     '2,999',
     '',
     'vehicleImages/VOH0674.jpeg',
-    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60+Inscription-ramsey-nj-590829aa0a0e0adf4dcd53fb67b96faf.htm');
   vehicleArray[2] = new Vehicle(
     2017,
     'Volvo',
@@ -187,7 +187,7 @@ $(document).ready(function(){
     '3,059',
     '',
     'vehicleImages/VOH0154.jpeg',
-    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60+Inscription-ramsey-nj-7127fd680a0e0ae717548d630f7f8faf.htm');
 
     vehicleArray[3] = new Vehicle(
       // Osmium
@@ -219,7 +219,7 @@ $(document).ready(function(){
       '3,059',
       '',
       'vehicleImages/VOH0612.jpeg',
-      'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+      'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60+Cross+Country-ramsey-nj-a9ddb1db0a0e0ae80954dfccb4674224.htm');
 
 
   vehicleArray[4] = new Vehicle(
@@ -251,7 +251,7 @@ $(document).ready(function(){
     '3,099',
     '',
     'vehicleImages/VOH0468.jpeg',
-    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC60-ramsey-nj-848e8f930a0e0a1709e1ddd37d7ffa61.htm');
   vehicleArray[5] = new Vehicle(
     2017,
     'Volvo',
@@ -281,7 +281,7 @@ $(document).ready(function(){
     '3,099',
     '',
     'vehicleImages/VOH0441.jpeg',
-    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+    'http://www.volvocarsramsey.com/new-inventory/index.htm');
 
   vehicleArray[6] = new Vehicle(
     2017,
@@ -312,7 +312,7 @@ $(document).ready(function(){
     '3,199',
     '',
     'vehicleImages/VOH0549.jpeg',
-    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+    'http://www.volvocarsramsey.com/new-inventory/index.htm');
 
   vehicleArray[7] = new Vehicle(
     // ICE WHITE
@@ -331,7 +331,7 @@ $(document).ready(function(){
     'VOH0398',
     '27',
     '57,620',
-    '28,900',
+    '58,900',
     599,
     '34,578',
     '0',
@@ -344,7 +344,7 @@ $(document).ready(function(){
     '3,299',
     '',
     'vehicleImages/VOH0398.jpeg',
-    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+    'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC90-ramsey-nj-88f283c40a0e0adf47fda79cfecd02c5.htm');
 
     vehicleArray[8] = new Vehicle(
       2017,
@@ -375,7 +375,7 @@ $(document).ready(function(){
       '3,899',
       '',
       'vehicleImages/VOH0654.jpeg',
-      'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+      'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-V90+Cross+Country-ramsey-nj-590858420a0e0adf4dcd53fb7ccf2d3f.htm');
 
     vehicleArray[9] = new Vehicle(
       // CWP
@@ -407,7 +407,7 @@ $(document).ready(function(){
       '3,499',
       '',
       'vehicleImages/VOH0183.jpeg',
-      'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
+      'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC90-ramsey-nj-b4f49dfa0a0e0ae854d002e5170b4711.htm');
 
 
 
