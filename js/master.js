@@ -384,13 +384,6 @@ $(document).ready(function(){
 
 
 
-
-
-
-
-
-
-
   for (var i = 0; i < vehicleArray.length; i++) {
     listing(vehicleArray[i]);
   }
