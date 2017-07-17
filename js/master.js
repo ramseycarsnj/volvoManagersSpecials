@@ -186,7 +186,7 @@ $(document).ready(function(){
     '.25',
     '3,059',
     '',
-    'vehicleImages/VOH0154.jpeg',
+    'vehicleImages/VOH0154.jpg',
     'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60+Inscription-ramsey-nj-7127fd680a0e0ae717548d630f7f8faf.htm');
 
     vehicleArray[3] = new Vehicle(
