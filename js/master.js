@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  const expiration =  '7/31/17';
+  const expiration =  '8/31/17';
   const vehicleArray = [];
 
   function Vehicle(
@@ -72,7 +72,7 @@ $(document).ready(function(){
 
 vehicleArray[0] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'S60 Dynamic T5 FWD',
   'White',
   '4DR wagon',
@@ -104,7 +104,7 @@ vehicleArray[0] = new Vehicle(
 
 vehicleArray[1] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'S60 T5 Dynamic AWD',
   'White',
   '4DR',
@@ -117,7 +117,7 @@ vehicleArray[1] = new Vehicle(
   'H2428662',
   'VOH0200',
   '39',
-  '42,615',
+  '37,970',
   '<p class="buyHead">Or buy for: <strong class="buyPrice">$31,900</strong> </p>',
   229,
   '20,503',
@@ -136,7 +136,7 @@ vehicleArray[1] = new Vehicle(
 
 vehicleArray[2] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'S60 Inscription AWD',
   'Silver',
   '4DR',
@@ -168,7 +168,7 @@ vehicleArray[2] = new Vehicle(
 
 vehicleArray[3] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'V60 T5 FWD Premier',
   'Black',
   '4DR',
@@ -201,7 +201,7 @@ vehicleArray[3] = new Vehicle(
 
 vehicleArray[4] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'S60 T5 Inscription Platinum AWD',
   'Maple',
   '4DR',
@@ -233,7 +233,7 @@ vehicleArray[4] = new Vehicle(
 
 vehicleArray[5] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'XC60 Dynamic T6 AWD ',
   'Sand',
   '4DR',
@@ -265,7 +265,7 @@ vehicleArray[5] = new Vehicle(
 
 vehicleArray[6] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'S90 T6 Momentum AWD',
   'White',
   '4DR',
@@ -297,7 +297,7 @@ vehicleArray[6] = new Vehicle(
 
 vehicleArray[7] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'S90 Inscription T6 AWD',
   'Grey',
   '4DR',
@@ -329,7 +329,7 @@ vehicleArray[7] = new Vehicle(
 
 vehicleArray[8] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'XC90 Momentum Plus T6 AWD',
   'Sand',
   '4DR',
@@ -361,7 +361,7 @@ vehicleArray[8] = new Vehicle(
 
 vehicleArray[9] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'V90 Cross Country T6',
   'Blue',
   '4DR',
@@ -393,7 +393,7 @@ vehicleArray[9] = new Vehicle(
 
 vehicleArray[10] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'XC90 Inscription T6 AWD',
   'Sand',
   '4DR',
@@ -425,7 +425,7 @@ vehicleArray[10] = new Vehicle(
 
 vehicleArray[11] = new Vehicle(
   2017,
-  'Volvo',
+  ' Volvo',
   'XC90 Inscription T8 Hybrid',
   'Black',
   '4DR',
