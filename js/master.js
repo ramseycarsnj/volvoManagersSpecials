@@ -418,7 +418,7 @@ vehicleArray[10] = new Vehicle(
   '7.5',
   '.25',
   '3,499',
-  'Includes $3000 Conquest Cash',
+  'Includes $3500 Conquest Cash',
   'vehicleImages/VOH0534.jpg',
   'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC90-ramsey-nj-f5a358b10a0e0ae737dd71df3d547ddc.htm'
 );
@@ -439,7 +439,7 @@ vehicleArray[11] = new Vehicle(
   'VOH0198',
   '96',
   '76,905',
-  '<p class="buyHead">Or buy for: <strong class="buyPrice">$38,452</strong> </p>',
+  '<p class="buyHead">Or buy for: <strong class="buyPrice"></strong> </p>',
   659,
   '38,452',
   '0',
@@ -450,7 +450,7 @@ vehicleArray[11] = new Vehicle(
   '7.5',
   '.25',
   '5,559',
-  'Includes $3000 Conquest Cash',
+  'Includes $3500 Conquest Cash',
   'vehicleImages/VOH0198.jpg',
   'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC90+Hybrid-ramsey-nj-d90595f80a0e0ae85a0d6baedf3b9ca5.htm'
 );
