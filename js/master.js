@@ -354,7 +354,7 @@ vehicleArray[8] = new Vehicle(
   '7.5',
   '.25',
   '3,359',
-  'Includes $3000 Conquest Cash',
+  'Includes $3500 Conquest Cash',
   'vehicleImages/VOH0653.jpg',
   'http://www.volvocarsramsey.com/new/Volvo/2017-Volvo-XC90-ramsey-nj-590843190a0e0adf4dcd53fbf094d8bb.htm'
 );
@@ -439,7 +439,7 @@ vehicleArray[11] = new Vehicle(
   'VOH0198',
   '96',
   '76,905',
-  '<p class="buyHead">Or buy for: <strong class="buyPrice"></strong> </p>',
+  '<p class="buyHead">Or buy for: <strong class="buyPrice">64,775</strong> </p>',
   659,
   '38,452',
   '0',
