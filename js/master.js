@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  const expiration =  '8/31/17';
+  const expiration =  '9/4/17';
   const vehicleArray = [];
 
   function Vehicle(
