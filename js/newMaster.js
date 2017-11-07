@@ -84,7 +84,7 @@ $(document).ready(function(){
 
   }
 
-  vehicleArray[0] = new Vehicle(
+  vehicleArray[3] = new Vehicle(
     'New',
     '2018',
     'Volvo',
@@ -121,7 +121,7 @@ $(document).ready(function(){
     'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-XC60-ramsey-nj-2a0843ab0a0e0a6b247e108104fd49cd.htm');
 
 
-  vehicleArray[1] = new Vehicle(
+  vehicleArray[4] = new Vehicle(
     'New',
     '2018',
     'Volvo',
@@ -158,7 +158,7 @@ $(document).ready(function(){
     'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-XC90-ramsey-nj-a2a35aef0a0e0ae867dfbbafecb5b59b.htm');
 
 
-    vehicleArray[2] = new Vehicle(
+    vehicleArray[0] = new Vehicle(
       'New',
       '2017',
       'Volvo',
@@ -195,7 +195,7 @@ $(document).ready(function(){
       'https://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60-ramsey-nj-dd4bb81e0a0e0a175837ce580353bca6.htm');
 
 
-    vehicleArray[3] = new Vehicle(
+    vehicleArray[2] = new Vehicle(
       'New',
       '2018',
       'Volvo',
@@ -231,77 +231,77 @@ $(document).ready(function(){
       'vehicleImages/VOJ0104.jpg',
       'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-S90-ramsey-nj-ace700a20a0e0adf5dc318960a8caafe.htm');
 
-    // vehicleArray[4] = new Vehicle(
-    //   'New',
-    //   '2017',
-    //   'Volvo',
-    //   'V60 CROSS COUNTRY AWD',
-    //   'Onyx Black',
-    //   '4 Dr',
-    //   '2.0L I-4 cyl',
-    //   'Auto AWD',
-    //   'Power ABS',
-    //   'Power',
-    //   'Windows, Locks',
-    //   'convenience package, BLIS',
-    //   'H1036148',
-    //   'VOH0430',
-    //   '38',
-    //   '46,980',
-    //   '',
-    //   '',
-    //   '',
-    //   '',
-    //   '',
-    //   '',
-    //   '398',
-    //   '46,980',
-    //   'waived',
-    //   'included',
-    //   '3,000',
-    //   '20,201',
-    //   '36',
-    //   '7,500',
-    //   '0.25',
-    //   '3,697',
-    //   'vehicleImages/VOH0430.jpg',
-    //   'https://www.volvocarsramsey.com/new/Volvo/2017-Volvo-V60+Cross+Country-ramsey-nj-141e3bac0a0e0ae7362623032b56adeb.htm');
-    //
-    // vehicleArray[5] = new Vehicle(
-    //   'New',
-    //   '2018',
-    //   'Volvo',
-    //   'XC90 T6 INSCRIPTION',
-    //   'Onyx Black',
-    //   '4 Dr',
-    //   '2.0L I-4 cyl',
-    //   'Auto AWD',
-    //   'Power ABS',
-    //   'Power',
-    //   'Windows, Locks',
-    //   'heated steering wheel, 21" wheels, convenience package',
-    //   'J1201593',
-    //   'VOJ0058',
-    //   '41',
-    //   '64,340',
-    //   '',
-    //   '',
-    //   '',
-    //   '',
-    //   '',
-    //   '',
-    //   '398',
-    //   '34,743',
-    //   'waived',
-    //   'included',
-    //   '4,100',
-    //   '20,201',
-    //   '39',
-    //   '7,500',
-    //   '0.25',
-    //   '3,697',
-    //   'vehicleImages/VOJ0058.jpg',
-    //   'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-XC90-ramsey-nj-1cb082160a0e0ae867dfbbafe6fa9004.htm');
+    vehicleArray[1] = new Vehicle(
+      'New',
+      '2017',
+      'Volvo',
+      'V60 CROSS COUNTRY AWD',
+      'Onyx Black',
+      '4 Dr',
+      '2.0L I-4 cyl',
+      'Auto AWD',
+      'Power ABS',
+      'Power',
+      'Windows, Locks',
+      'convenience package, BLIS',
+      'H1036148',
+      'VOH0430',
+      '38',
+      '46,980',
+      '',
+      '',
+      '',
+      '',
+      '',
+      '',
+      '348',
+      '20,201',
+      'waived',
+      'included',
+      '3,180',
+      '12,528',
+      '36',
+      '7,500',
+      '0.25',
+      '3,827',
+      'vehicleImages/VOH0430.jpg',
+      'https://www.volvocarsramsey.com/new/Volvo/2017-Volvo-V60+Cross+Country-ramsey-nj-141e3bac0a0e0ae7362623032b56adeb.htm');
+
+    vehicleArray[5] = new Vehicle(
+      'New',
+      '2018',
+      'Volvo',
+      'XC90 T6 INSCRIPTION',
+      'Onyx Black',
+      '4 Dr',
+      '2.0L I-4 cyl',
+      'Auto AWD',
+      'Power ABS',
+      'Power',
+      'Windows, Locks',
+      'heated steering wheel, 21" wheels, convenience package',
+      'J1201593',
+      'VOJ0058',
+      '41',
+      '64,340',
+      '',
+      '',
+      '',
+      '',
+      '',
+      '',
+      '598',
+      '34,743',
+      'waived',
+      'included',
+      '4,100',
+      '23,322',
+      '39',
+      '7,500',
+      '0.25',
+      '4,997',
+      'vehicleImages/VOJ0058.jpg',
+      'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-XC90-ramsey-nj-1cb082160a0e0ae867dfbbafe6fa9004.htm');
 
 
 
