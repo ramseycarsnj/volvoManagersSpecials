@@ -84,44 +84,44 @@ $(document).ready(function(){
 
   }
 
-vehicleArray[0] = new Vehicle(
-  'New',
-  '2017',
-  'VOLVO',
-  'S60 T5 Dynamic AWD',
-  'BLACK',
-  '4 Dr',
-  '4 Cylinder',
-  'Auto w/OD',
-  'Power ABS',
-  'Power Steering',
-  'Windows, Locks, Seats, Mirrors',
-  'Leather Interior, Dual Airbags, Side Airbags, Moonroof',
-  'H2426612',
-  'VOH0158',
-  '42',
-  '38425',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '',
-  '188',
-  '16907',
-  '0',
-  'INCLUDED',
-  '3180',
-  '6768',
-  '36',
-  '7500',
-  '0.25',
-  '3667',
-  'vehicleImages/VOH0158.png',
-  'https://www.volvocarsramsey.com/fleet-new/Volvo/2017-Volvo-S60-ramsey-nj-71fd80f30a0e0ae854d002e59757412c.htm');
+// vehicleArray[0] = new Vehicle(
+//   'New',
+//   '2017',
+//   'VOLVO',
+//   'S60 T5 Dynamic AWD',
+//   'BLACK',
+//   '4 Dr',
+//   '4 Cylinder',
+//   'Auto w/OD',
+//   'Power ABS',
+//   'Power Steering',
+//   'Windows, Locks, Seats, Mirrors',
+//   'Leather Interior, Dual Airbags, Side Airbags, Moonroof',
+//   'H2426612',
+//   'VOH0158',
+//   '42',
+//   '38425',
+//   '',
+//   '',
+//   '',
+//   '',
+//   '',
+//   '',
+//   '188',
+//   '16907',
+//   '0',
+//   'INCLUDED',
+//   '3180',
+//   '6768',
+//   '36',
+//   '7500',
+//   '0.25',
+//   '3667',
+//   'vehicleImages/VOH0158.png',
+//   'https://www.volvocarsramsey.com/fleet-new/Volvo/2017-Volvo-S60-ramsey-nj-71fd80f30a0e0ae854d002e59757412c.htm');
 
 
-  vehicleArray[1] = new Vehicle(
+  vehicleArray[0] = new Vehicle(
     'New',
     '2017',
     'VOLVO',
@@ -157,7 +157,7 @@ vehicleArray[0] = new Vehicle(
     'vehicleImages/VOH0664.jpg',
     'https://www.volvocarsramsey.com/new/Volvo/2017-Volvo-S60+Inscription-ramsey-nj-590837220a0e0adf4dcd53fbe966e7ad.htm');
 
-  vehicleArray[2] = new Vehicle(
+  vehicleArray[1] = new Vehicle(
     'New',
     '2017',
     'VOLVO',
@@ -193,7 +193,7 @@ vehicleArray[0] = new Vehicle(
     'vehicleImages/VOH0220.jpeg',
     'https://www.volvocarsramsey.com/new/Volvo/2017-Volvo-V60-ramsey-nj-e954eccb0a0e0ae75af8e084cb2c93f5.htm');
 
-  vehicleArray[3] = new Vehicle(
+  vehicleArray[2] = new Vehicle(
     'New',
     '2017',
     'VOLVO',
@@ -229,43 +229,43 @@ vehicleArray[0] = new Vehicle(
     'vehicleImages/VOH0451.jpg',
     'https://www.volvocarsramsey.com/fleet-new/Volvo/2017-Volvo-S60-ramsey-nj-751bc2120a0e0a1709e1ddd320399287.htm');
 
-  vehicleArray[4] = new Vehicle(
-    'Demo',
-    '2018',
-    'VOLVO <span style="font-weight: 900; color:#033057;">DEMO</span>',
-    'S90T5 MOMENTUM AWD',
-    'BLACK',
-    '4 Dr',
-    '4 Cylinder',
-    'Auto w/OD',
-    'Power ABS',
-    'Power Steering',
-    'Windows, Locks, Seats, Mirrors',
-    'Leather Interior, Moonroof',
-    'JP016776',
-    'VOJ0104',
-    '4779',
-    '56190',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '388',
-    '28656',
-    '0',
-    'INCLUDED',
-    '3000',
-    '13968',
-    '36',
-    '7500',
-    '0.25',
-    '3388',
-    'vehicleImages/VOJ0104.jpeg',
-    'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-S90-ramsey-nj-ace700a20a0e0adf5dc318960a8caafe.htm');
+  // vehicleArray[4] = new Vehicle(
+  //   'Demo',
+  //   '2018',
+  //   'VOLVO <span style="font-weight: 900; color:#033057;">DEMO</span>',
+  //   'S90T5 MOMENTUM AWD',
+  //   'BLACK',
+  //   '4 Dr',
+  //   '4 Cylinder',
+  //   'Auto w/OD',
+  //   'Power ABS',
+  //   'Power Steering',
+  //   'Windows, Locks, Seats, Mirrors',
+  //   'Leather Interior, Moonroof',
+  //   'JP016776',
+  //   'VOJ0104',
+  //   '4779',
+  //   '56190',
+  //   '',
+  //   '',
+  //   '',
+  //   '',
+  //   '',
+  //   '',
+  //   '388',
+  //   '28656',
+  //   '0',
+  //   'INCLUDED',
+  //   '3000',
+  //   '13968',
+  //   '36',
+  //   '7500',
+  //   '0.25',
+  //   '3388',
+  //   'vehicleImages/VOJ0104.jpeg',
+  //   'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-S90-ramsey-nj-ace700a20a0e0adf5dc318960a8caafe.htm');
 
-    vehicleArray[5] = new Vehicle(
+    vehicleArray[3] = new Vehicle(
       'New',
       '2018',
       'VOLVO',
@@ -301,7 +301,7 @@ vehicleArray[0] = new Vehicle(
       'vehicleImages/VOJ0237.jpeg',
       'https://www.volvocarsramsey.com/new/Volvo/2018-Volvo-V90+Cross+Country-ramsey-nj-9f06557c0a0e0adf10937696f008616a.htm');
 
-    vehicleArray[6] = new Vehicle(
+    vehicleArray[4] = new Vehicle(
       'New',
       '2018',
       'VOLVO',
